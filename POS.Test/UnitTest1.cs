@@ -1,3 +1,4 @@
+
 namespace POS.Test
 {
     [TestClass]
