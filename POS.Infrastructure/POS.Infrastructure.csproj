@@ -9,8 +9,6 @@
   <ItemGroup>
     <Folder Include="Dtos\" />
     <Folder Include="Helpers\" />
-    <Folder Include="Extensions\" />
-    <Folder Include="Persistence\Contexts\" />
     <Folder Include="Persistence\Interfaces\" />
     <Folder Include="Persistence\Repositories\" />
   </ItemGroup>
