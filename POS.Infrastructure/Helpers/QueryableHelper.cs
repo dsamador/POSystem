@@ -1,8 +1,8 @@
-﻿using POS.Infrastructure.Commons.Bases;
+﻿using POS.Infrastructure.Commons.Bases.Request;
 
 namespace POS.Infrastructure.Helpers
 {
-  public static class QueryableHelper
+    public static class QueryableHelper
     {
     public static IQueryable<T> Paginate<T>(this IQueryable<T> queryable, BasePaginationRequest request)
       {
